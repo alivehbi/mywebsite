@@ -16,7 +16,7 @@ import { Projects } from "./Pages/Projects/projects";
             <Route path="/">
            
 
-                <Route path="/" element = {<HomePage/>}/>
+                <Route path="/mywebsite" element = {<HomePage/>}/>
                 <Route path="/projects" element = {<Projects/>}/>
 
             </Route>
